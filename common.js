@@ -3,7 +3,7 @@ var myScroll;
 var myScrollLogin;
 var addressScroll;
 var categoryScroll;
-function loaded() {
+function loaded() {aaaaa
     try {
         myScroll = new IScroll('.nav_list', { mouseWheel: true, click: false, preventDefaultException: { tagName: /.*/ } });
         myScrollLogin = new IScroll('.nav_list_login', { mouseWheel: true, click: false, preventDefaultException: { tagName: /.*/ } });
