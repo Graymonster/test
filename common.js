@@ -22,10 +22,10 @@ $(window).bind('touchmove', function (e) {
         categoryScroll.refresh();
     } catch (e) {
 
-    };
+    };zzzzzzzzzzzzzz
 });
 // 이벤트 제거
-var eventhandler = function (e) {
+var eventhandler = function (e) {zzzzzzzzzz
     e.preventDefault();
 };
 $.fn.disableScroll = function () {
