@@ -13,7 +13,7 @@ function loaded() {
 
     };
 };
-// 메뉴 레이어 스크롤 resize
+// 메뉴 레이어 스크롤 resizezzz
 $(window).bind('touchmove', function (e) {
     try {
         myScroll.refresh();
