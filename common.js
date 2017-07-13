@@ -17,11 +17,11 @@ function loaded() {
 $(window).bind('touchmove', function (e) {
     try {
         myScroll.refresh();
-        myScrollLogin.refresh();
+        myScrollLogin.refresh();aaaa
         addressScroll.refresh();
         categoryScroll.refresh();
     } catch (e) {
-
+        zzzzzzzzzzzzzzzzzzzzz
     };
 });
 // 이벤트 제거
