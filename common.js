@@ -9,7 +9,7 @@ function loaded() {
         myScrollLogin = new IScroll('.nav_list_login', { mouseWheel: true, click: false, preventDefaultException: { tagName: /.*/ } });
         addressScroll = new IScroll('.address_scroll', { mouseWheel: true, click: false, preventDefaultException: { tagName: /.*/ } });
         categoryScroll = new IScroll('.category_list', { scrollX: true, scrollY: false, mouseWheel: true, click: false, preventDefaultException: { tagName: /.*/ } });        
-    } catch (e) {
+    } catch (e) {aaaa
 
     };
 };
